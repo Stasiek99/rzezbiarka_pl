@@ -1,6 +1,6 @@
 # Portfolio Website for Sculptor Dorota Dziekiewicz-Pilich
 
-Welcome to the repository of Dorota's portfolio website. This project showcases her stunning works as a sculptor, including monumental sculptures, statuettes, and small-form sculptures.
+Welcome to the repository of Dorota's portfolio website. This project showcases her stunning works as a sculptor, including monumental sculptures, statuettes, and small-form carvings.
 
 Visit the website: [rzezbiarka.pl](https://rzezbiarka.pl)
 
